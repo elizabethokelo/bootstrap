@@ -1,4 +1,4 @@
-image {
-    max-width: 40%;
-    height: 150px;
+.resized-image {
+    height: 350px; /* Set the desired height */
+    width: 100%;   /* Width adjusts automatically to maintain aspect ratio */
 }
